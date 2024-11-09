@@ -1,0 +1,52 @@
+{
+	"outputPath": "Output",
+	"defaultSceneName": "DefaultScene",
+	"defaultLevelName": "BasicMap",
+	"imageWidth": 1080,
+	"imageHeight": 1920,
+	"fOV": 90,
+	"cameraTransforms": [
+		{
+			"rotation":
+			{
+				"x": -0,
+				"y": 0,
+				"z": -0.17364817766693036,
+				"w": 0.98480775301220802
+			},
+			"translation":
+			{
+				"x": -1000,
+				"y": 0,
+				"z": 200
+			},
+			"scale3D":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		},
+		{
+			"rotation":
+			{
+				"x": -0,
+				"y": 0,
+				"z": -0.25881904510252079,
+				"w": 0.96592582628906842
+			},
+			"translation":
+			{
+				"x": -500,
+				"y": 0,
+				"z": 300
+			},
+			"scale3D":
+			{
+				"x": 1,
+				"y": 1,
+				"z": 1
+			}
+		}
+	]
+}
